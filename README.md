@@ -4,8 +4,13 @@
 My name is **Muhammad Anees** and I'm an Undergraduate student. I'm from Pakistan 🇵🇰
 Currently Working with **Flutter**
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top_langs>/?username=<Anees7757>&theme=<dark>" />
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/Anees7757/Anees7757">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anees7757&hide=dart,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Anees7757/Anees7757">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anees7757&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anees's GitHub Stats" />
+</a>
 
 
 - 🌱 I’m currently learning Flutter
