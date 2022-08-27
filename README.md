@@ -3,9 +3,9 @@
 
 My name is **Muhammad Anees** and I'm an Undergraduate student from Pakistan 🇵🇰<br/>
 <br/>
-Currently Working with **Flutter**
+• **Flutter Developer**
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aees7757&label=Profile%20views&color=0e75b6&style=flat" alt="aees7757" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anees7757&label=Profile%20views&color=0e75b6&style=flat" alt="aees7757" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anees7757" alt="aees7757" /></a> </p>
 
 ## &#x1f4c8; GitHub Stats
